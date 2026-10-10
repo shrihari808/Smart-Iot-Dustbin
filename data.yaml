@@ -1,0 +1,4 @@
+train: C:\Users\kshri\Desktop\codestuff\Tarp project\DATASET\train
+val: C:\Users\kshri\Desktop\codestuff\Tarp project\DATASET\test
+nc: 2
+names: ['O','R']
